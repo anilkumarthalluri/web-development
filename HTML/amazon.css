@@ -1,0 +1,52 @@
+#ex{
+    height:60px;
+    background-color:black;
+   
+}
+button{
+    background-color: orange;
+}
+a{
+    margin-right:200px;
+    color:white;
+    text-decoration: none;
+}
+#am{
+    color:orange;
+    font-size: larger;
+}
+#a{
+    height:100px;
+    width:100px;
+    background-color: pink;
+    display:inline-block;
+    
+    text-align: center;
+}
+#b{
+    height:100px;
+    width:100px;
+    background-color:blue;
+    display:inline-block;
+    
+    
+    text-align: center;
+}
+#c{
+    height:100px;
+    width:100px;
+    background-color:green;
+    display:inline-block;
+
+    border-color: aqua;
+    text-align: center;
+}
+#content{
+    height:700px;
+    border: black;
+}
+footer{
+    background-color: blanchedalmond;
+    color: rgb(248, 85, 85);
+    text-align: center;
+}

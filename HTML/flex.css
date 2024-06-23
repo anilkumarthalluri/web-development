@@ -1,0 +1,37 @@
+h1{
+    text-align:center;
+}
+#d1{
+    height:100px;
+    width:100px;
+    background-color: yellow;
+    border-color:black;
+  
+}
+#d2{
+    height:100px;
+    width:100px;
+    background-color: red;
+    border-color:black;
+    border-radius:50%;
+}
+#d3{
+    height:100px;
+    width:100px;
+    background-color: green;
+    border-color:black;
+   text-decoration-color: blueviolet;
+}
+div{
+    height:150px;
+    width:400px;
+    display:inline-block;
+    background-color: bisque;
+    margin-left:10px;
+    border:red;
+    display:flex;
+    flex-direction:row;
+    position:relative;
+    left:29px;
+    top:23px;
+}

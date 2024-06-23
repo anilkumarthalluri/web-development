@@ -1,0 +1,29 @@
+#d1{
+    height:66px;
+    width:66px;
+    border-radius:50%;
+    border: 10px solid rgb(27, 231, 54);
+    border-top:10px solid rgb(29, 15, 15);
+    animation: load 4s ease-out 0s infinite normal;
+    background-color: white;
+    text-align:center;
+    margin-left:590px;
+}
+
+@keyframes load{
+    from{
+        transform:rotate(0deg);
+    }
+    to{
+        transform:rotate(360deg);
+    }
+}
+div{
+    height:20px;
+    width:440px;
+    background-color: green;
+    border:3px solid black;
+    text-transform: capitalize;
+    color:red;
+    margin-left:403px;
+}

@@ -1,0 +1,21 @@
+body{
+    background-color: aquamarine;
+}
+p{
+    text-align: center;
+    font-size: xx-large;
+    text-transform: capitalize;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.yellow{
+    background-color: yellow;
+    color : white;
+}
+.red{
+    background-color: red;
+    color: black;
+}
+#btn{
+    height:20px;
+    width:63px;
+}
